@@ -12,3 +12,9 @@
    
 **test5**
 *test5*
+
+
+## About This Project
+
+This project is for practicing Git workflows including branching and rebasing.
+
